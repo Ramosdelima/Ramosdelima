@@ -1,8 +1,18 @@
 ### Hi there 👋
+# Que bom que você veio! 
 
+**Estou Aprendendo:**. 🚀
+
+	Python, Js, Html, Css, Lgpd e outras coisas legais de tecnologia.🖖
+**Explorando:** Joguinhos em Python e Cloud.
+
+ **Desejando:**  Arduíno. ✨
+   
+## A frase que me define este ano é: 🎯
+**Se não puder fazer tudo,
+   faça tudo o que puder, sem desistir!** 🤸‍♀️
 <!--
 **Ramosdelima/Ramosdelima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[Bem Vindos.md](https://github.com/Ramosdelima/Ramosdelima/files/7034760/Bem.Vindos.md)
 
 Here are some ideas to get you started:
 
