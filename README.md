@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hy!✌
+
 # Que bom que você veio! 
 
 **Estou Aprendendo:**. 🚀
-
 	Python, Js, Html, Css, Lgpd e outras coisas legais de tecnologia.🖖
+	
 **Explorando:** Joguinhos em Python e Cloud.
 
  **Desejando:**  Arduíno. ✨
