@@ -3,15 +3,16 @@
 # Que bom que você veio! 
 
 **Estou Aprendendo:**. 🚀
-	Python, Js, Html, Css, Lgpd e outras coisas legais de tecnologia.🖖
+
+	Python, Js, Html, Css, Lgpd e outras coisas legais de tecnologia.
 	
 **Explorando:** Joguinhos em Python e Cloud.
 
- **Desejando:**  Arduíno. ✨
+ **Desejando:**  Arduíno. 
    
 ## A frase que me define este ano é: 🎯
 **Se não puder fazer tudo,
-   faça tudo o que puder, sem desistir!** 🤸‍♀️
+   faça tudo o que puder, sem desistir!** 🤸‍♀️✨
 <!--
 **Ramosdelima/Ramosdelima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
